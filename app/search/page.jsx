@@ -5,6 +5,9 @@ import { getSearchResult } from "../utils/api";
 import ListingCard from "../components/search/ListingCard";
 import Map from "../components/search/Map";
 
+export const metadata = {
+  title: 'Search Page',
+}
 export default async function SearchResult({ params, searchParams: { startDate, endDate, location, numOfGuests } }) {
   console.log(numOfGuests);
 
