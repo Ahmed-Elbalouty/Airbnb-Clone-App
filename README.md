@@ -1,2 +1,5 @@
 # Airbnb-Clone-App
-This project is to create an Airbnb clone using Next.js, featuring an API for fetching rental listings in London, along with an interactive map using the Mapbox-GL library and a responsive UI built with Tailwind CSS.
+This project is to create airbnb clone built with Next.js, using an API to fetch rental listings and map data specifically for London. The project features a dynamic, interactive map using Mapbox-GL to display property locations and includes a responsive UI styled with Tailwind CSS. Users can search for available rentals in London, with date filtering powered by React-Date-Range.<br>
+
+Project live show :- [Click Here](https://airbnb-clone-app-lilac-gamma.vercel.app/)
+
